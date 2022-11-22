@@ -1,3 +1,3 @@
 # devnull
 
-test no sign
+test unknown sign
