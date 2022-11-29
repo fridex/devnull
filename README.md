@@ -1,3 +1,3 @@
-# devnull
+# devnull foo
 
 test
