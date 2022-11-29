@@ -1,3 +1,4 @@
-# devnull foo
 
-test
+# devnull
+
+Test
